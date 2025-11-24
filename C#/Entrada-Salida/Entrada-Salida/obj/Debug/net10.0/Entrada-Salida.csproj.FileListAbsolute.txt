@@ -1,0 +1,14 @@
+C:\Users\emili\OneDrive\Desktop\Dia Uno de Java y C#\C#\Entrada-Salida\Entrada-Salida\bin\Debug\net10.0\Entrada-Salida.exe
+C:\Users\emili\OneDrive\Desktop\Dia Uno de Java y C#\C#\Entrada-Salida\Entrada-Salida\bin\Debug\net10.0\Entrada-Salida.deps.json
+C:\Users\emili\OneDrive\Desktop\Dia Uno de Java y C#\C#\Entrada-Salida\Entrada-Salida\bin\Debug\net10.0\Entrada-Salida.runtimeconfig.json
+C:\Users\emili\OneDrive\Desktop\Dia Uno de Java y C#\C#\Entrada-Salida\Entrada-Salida\bin\Debug\net10.0\Entrada-Salida.dll
+C:\Users\emili\OneDrive\Desktop\Dia Uno de Java y C#\C#\Entrada-Salida\Entrada-Salida\bin\Debug\net10.0\Entrada-Salida.pdb
+C:\Users\emili\OneDrive\Desktop\Dia Uno de Java y C#\C#\Entrada-Salida\Entrada-Salida\obj\Debug\net10.0\Entrada-Salida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emili\OneDrive\Desktop\Dia Uno de Java y C#\C#\Entrada-Salida\Entrada-Salida\obj\Debug\net10.0\Entrada-Salida.AssemblyInfoInputs.cache
+C:\Users\emili\OneDrive\Desktop\Dia Uno de Java y C#\C#\Entrada-Salida\Entrada-Salida\obj\Debug\net10.0\Entrada-Salida.AssemblyInfo.cs
+C:\Users\emili\OneDrive\Desktop\Dia Uno de Java y C#\C#\Entrada-Salida\Entrada-Salida\obj\Debug\net10.0\Entrada-Salida.csproj.CoreCompileInputs.cache
+C:\Users\emili\OneDrive\Desktop\Dia Uno de Java y C#\C#\Entrada-Salida\Entrada-Salida\obj\Debug\net10.0\Entrada-Salida.dll
+C:\Users\emili\OneDrive\Desktop\Dia Uno de Java y C#\C#\Entrada-Salida\Entrada-Salida\obj\Debug\net10.0\refint\Entrada-Salida.dll
+C:\Users\emili\OneDrive\Desktop\Dia Uno de Java y C#\C#\Entrada-Salida\Entrada-Salida\obj\Debug\net10.0\Entrada-Salida.pdb
+C:\Users\emili\OneDrive\Desktop\Dia Uno de Java y C#\C#\Entrada-Salida\Entrada-Salida\obj\Debug\net10.0\Entrada-Salida.genruntimeconfig.cache
+C:\Users\emili\OneDrive\Desktop\Dia Uno de Java y C#\C#\Entrada-Salida\Entrada-Salida\obj\Debug\net10.0\ref\Entrada-Salida.dll

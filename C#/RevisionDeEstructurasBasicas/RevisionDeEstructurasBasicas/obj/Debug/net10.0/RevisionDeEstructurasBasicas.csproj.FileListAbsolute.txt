@@ -1,0 +1,14 @@
+C:\Users\emili\OneDrive\Desktop\Dia Uno de Java y C#\C#\RevisionDeEstructurasBasicas\RevisionDeEstructurasBasicas\bin\Debug\net10.0\RevisionDeEstructurasBasicas.exe
+C:\Users\emili\OneDrive\Desktop\Dia Uno de Java y C#\C#\RevisionDeEstructurasBasicas\RevisionDeEstructurasBasicas\bin\Debug\net10.0\RevisionDeEstructurasBasicas.deps.json
+C:\Users\emili\OneDrive\Desktop\Dia Uno de Java y C#\C#\RevisionDeEstructurasBasicas\RevisionDeEstructurasBasicas\bin\Debug\net10.0\RevisionDeEstructurasBasicas.runtimeconfig.json
+C:\Users\emili\OneDrive\Desktop\Dia Uno de Java y C#\C#\RevisionDeEstructurasBasicas\RevisionDeEstructurasBasicas\bin\Debug\net10.0\RevisionDeEstructurasBasicas.dll
+C:\Users\emili\OneDrive\Desktop\Dia Uno de Java y C#\C#\RevisionDeEstructurasBasicas\RevisionDeEstructurasBasicas\bin\Debug\net10.0\RevisionDeEstructurasBasicas.pdb
+C:\Users\emili\OneDrive\Desktop\Dia Uno de Java y C#\C#\RevisionDeEstructurasBasicas\RevisionDeEstructurasBasicas\obj\Debug\net10.0\RevisionDeEstructurasBasicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emili\OneDrive\Desktop\Dia Uno de Java y C#\C#\RevisionDeEstructurasBasicas\RevisionDeEstructurasBasicas\obj\Debug\net10.0\RevisionDeEstructurasBasicas.AssemblyInfoInputs.cache
+C:\Users\emili\OneDrive\Desktop\Dia Uno de Java y C#\C#\RevisionDeEstructurasBasicas\RevisionDeEstructurasBasicas\obj\Debug\net10.0\RevisionDeEstructurasBasicas.AssemblyInfo.cs
+C:\Users\emili\OneDrive\Desktop\Dia Uno de Java y C#\C#\RevisionDeEstructurasBasicas\RevisionDeEstructurasBasicas\obj\Debug\net10.0\RevisionDeEstructurasBasicas.csproj.CoreCompileInputs.cache
+C:\Users\emili\OneDrive\Desktop\Dia Uno de Java y C#\C#\RevisionDeEstructurasBasicas\RevisionDeEstructurasBasicas\obj\Debug\net10.0\RevisionDeEstructurasBasicas.dll
+C:\Users\emili\OneDrive\Desktop\Dia Uno de Java y C#\C#\RevisionDeEstructurasBasicas\RevisionDeEstructurasBasicas\obj\Debug\net10.0\refint\RevisionDeEstructurasBasicas.dll
+C:\Users\emili\OneDrive\Desktop\Dia Uno de Java y C#\C#\RevisionDeEstructurasBasicas\RevisionDeEstructurasBasicas\obj\Debug\net10.0\RevisionDeEstructurasBasicas.pdb
+C:\Users\emili\OneDrive\Desktop\Dia Uno de Java y C#\C#\RevisionDeEstructurasBasicas\RevisionDeEstructurasBasicas\obj\Debug\net10.0\RevisionDeEstructurasBasicas.genruntimeconfig.cache
+C:\Users\emili\OneDrive\Desktop\Dia Uno de Java y C#\C#\RevisionDeEstructurasBasicas\RevisionDeEstructurasBasicas\obj\Debug\net10.0\ref\RevisionDeEstructurasBasicas.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emili\\OneDrive\\Desktop\\Dia Uno de Java y C#\\C#\\Entrada-Salida\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7087E489-173B-4ADE-A24A-037857CBE8ED}|Entrada-Salida\\Entrada-Salida.csproj|c:\\users\\emili\\onedrive\\desktop\\dia uno de java y c#\\c#\\entrada-salida\\entrada-salida\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7087E489-173B-4ADE-A24A-037857CBE8ED}|Entrada-Salida\\Entrada-Salida.csproj|solutionrelative:entrada-salida\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emili\\OneDrive\\Desktop\\Dia Uno de Java y C#\\C#\\Entrada-Salida\\Entrada-Salida\\Program.cs",
+              "RelativeDocumentMoniker": "Entrada-Salida\\Program.cs",
+              "ToolTip": "C:\\Users\\emili\\OneDrive\\Desktop\\Dia Uno de Java y C#\\C#\\Entrada-Salida\\Entrada-Salida\\Program.cs*",
+              "RelativeToolTip": "Entrada-Salida\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:32:58.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

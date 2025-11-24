@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emili\\OneDrive\\Desktop\\Dia Uno de Java y C#\\C#\\RevisionDeEstructurasBasicas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42442FD5-8957-4B63-8238-74FB3DE9DCCC}|RevisionDeEstructurasBasicas\\RevisionDeEstructurasBasicas.csproj|c:\\users\\emili\\onedrive\\desktop\\dia uno de java y c#\\c#\\revisiondeestructurasbasicas\\revisiondeestructurasbasicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42442FD5-8957-4B63-8238-74FB3DE9DCCC}|RevisionDeEstructurasBasicas\\RevisionDeEstructurasBasicas.csproj|solutionrelative:revisiondeestructurasbasicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emili\\OneDrive\\Desktop\\Dia Uno de Java y C#\\C#\\RevisionDeEstructurasBasicas\\RevisionDeEstructurasBasicas\\Program.cs",
+              "RelativeDocumentMoniker": "RevisionDeEstructurasBasicas\\Program.cs",
+              "ToolTip": "C:\\Users\\emili\\OneDrive\\Desktop\\Dia Uno de Java y C#\\C#\\RevisionDeEstructurasBasicas\\RevisionDeEstructurasBasicas\\Program.cs*",
+              "RelativeToolTip": "RevisionDeEstructurasBasicas\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:51:13.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
