@@ -69,3 +69,6 @@ Una vez completado el reto, iniciaré una segunda etapa enfocada completamente e
 
 
 
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Emiliano-S-M)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@canal_dev)

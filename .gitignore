@@ -1,10 +1,82 @@
-/Java/nbproject/private/
-/Java/build/
-/programaJava/nbproject/private/
-/programaJava/build/
-/Programas en Java/Hola Mundo/HolaMundo/nbproject/private/
-/Programas en Java/Hola Mundo/HolaMundo/build/
-/Programas en Java/EntradaSalida/nbproject/private/
-/Programas en Java/EntradaSalida/build/
-/Programas en Java/RevisionDeEstructurasBasicas/nbproject/private/
-/Programas en Java/RevisionDeEstructurasBasicas/build/
+# -----------------------------------
+# Archivos comunes a ignorar
+# -----------------------------------
+*.log
+*.tmp
+*.temp
+*.bak
+
+# -----------------------------------
+# Sistema operativo
+# -----------------------------------
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# -----------------------------------
+# Visual Studio / C#
+# -----------------------------------
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+*.mdb
+*.opendb
+
+# Carpetas generadas por VS
+bin/
+obj/
+TestResults/
+Debug/
+Release/
+
+# Paquetes NuGet
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+
+# -----------------------------------
+# Visual Studio Code (opcional)
+# -----------------------------------
+.vscode/
+
+# -----------------------------------
+# Java / NetBeans
+# -----------------------------------
+nbproject/private/
+build/
+dist/
+target/
+out/
+
+# Archivos de NetBeans
+nbactions.xml
+nb-configuration.xml
+*.orig
+
+# -----------------------------------
+# Java en general
+# -----------------------------------
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+
+# -----------------------------------
+# IDEs adicionales
+# -----------------------------------
+.idea/
+*.iws
+
+# -----------------------------------
+# Otros
+# -----------------------------------
+*.swp
+*.swo
+
