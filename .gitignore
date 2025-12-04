@@ -5,6 +5,7 @@
 *.tmp
 *.temp
 *.bak
+*.lnk
 
 # -----------------------------------
 # Sistema operativo
